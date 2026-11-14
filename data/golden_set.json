@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "category": "General Knowledge",
+    "en": "What is the capital of India?",
+    "te": "భారతదేశ రాజధాని ఏది?",
+    "hi": "भारत की राजधानी क्या है?"
+  },
+  {
+    "id": 2,
+    "category": "Customer Support",
+    "en": "How can I reset my account password?",
+    "te": "నా ఖాతా పాస్‌వర్డ్‌ను ఎలా రీసెట్ చేయాలి?",
+    "hi": "मैं अपना अकाउंट पासवर्ड कैसे रीसेट कर सकता हूँ?"
+  },
+  {
+    "id": 3,
+    "category": "Customer Support",
+    "en": "Where is my order and when will it be delivered?",
+    "te": "నా ఆర్డర్ ఎక్కడ ఉంది మరియు ఎప్పుడు డెలివరీ అవుతుంది?",
+    "hi": "मेरा ऑर्डर कहाँ है और यह कब डिलीवर होगा?"
+  },
+  {
+    "id": 4,
+    "category": "Banking & Finance",
+    "en": "What is the minimum balance required for a savings account?",
+    "te": "పొదుపు ఖాతాకు కనీస బ్యాలెన్స్ ఎంత ఉండాలి?",
+    "hi": "बचत खाते के लिए न्यूनतम शेष राशि कितनी होनी चाहिए?"
+  },
+  {
+    "id": 5,
+    "category": "Healthcare",
+    "en": "What are the common symptoms of seasonal flu?",
+    "te": "సీజనల్ ఫ్లూ యొక్క సాధారణ లక్షణాలు ఏమిటి?",
+    "hi": "मौसमी फ्लू के सामान्य लक्षण क्या हैं?"
+  },
+  {
+    "id": 6,
+    "category": "Education",
+    "en": "Explain photosynthesis in simple terms.",
+    "te": "కిరణజన్య సంయోగక్రియను సరళమైన పదాలలో వివరించండి.",
+    "hi": "प्रकाश संश्लेषण को सरल शब्दों में समझाएं।"
+  },
+  {
+    "id": 7,
+    "category": "Technology",
+    "en": "What is the difference between RAM and storage?",
+    "te": "RAM మరియు స్టోరేజ్ మధ్య తేడా ఏమిటి?",
+    "hi": "रैम (RAM) और स्टोरेज के बीच क्या अंतर है?"
+  },
+  {
+    "id": 8,
+    "category": "Travel",
+    "en": "Suggest three tourist places to visit in Hyderabad.",
+    "te": "హైదరాబాద్‌లో సందర్శించడానికి మూడు పర్యాటక ప్రదేశాలను సూచించండి.",
+    "hi": "हैदराबाद में घूमने के लिए तीन पर्यटन स्थलों के सुझाव दें।"
+  },
+  {
+    "id": 9,
+    "category": "Agriculture",
+    "en": "Which season is best for growing paddy crops?",
+    "te": "వరి పంట పండించడానికి ఏ కాలం ఉత్తమమైనది?",
+    "hi": "धान की फसल उगाने के लिए कौन सा मौसम सबसे अच्छा है?"
+  },
+  {
+    "id": 10,
+    "category": "E-Commerce",
+    "en": "Can I return a damaged item for a full refund?",
+    "te": "పాడైన వస్తువును తిరిగి ఇచ్చి పూర్తి వాపసు పొందవచ్చా?",
+    "hi": "क्या मैं क्षतिग्रस्त वस्तु वापस करके पूरा रिफंड प्राप्त कर सकता हूँ?"
+  },
+  {
+    "id": 11,
+    "category": "Daily Life",
+    "en": "Give me a quick recipe for vegetable upma.",
+    "te": "వెజిటబుల్ ఉప్మా కోసం త్వరగా తయారయ్యే రెసిపీ చెప్పండి.",
+    "hi": "वेजिटेबल उपमा बनाने की एक त्वरित रेसिपी बताएं।"
+  },
+  {
+    "id": 12,
+    "category": "Banking & Finance",
+    "en": "How do I block my lost debit card immediately?",
+    "te": "పోయిన నా డెబిట్ కార్డును వెంటనే ఎలా బ్లాక్ చేయాలి?",
+    "hi": "मैं अपने खोए हुए डेबिट कार्ड को तुरंत कैसे ब्लॉक करूँ?"
+  },
+  {
+    "id": 13,
+    "category": "Government Services",
+    "en": "What documents are needed to apply for a passport?",
+    "te": "పాస్‌పోర్ట్ కోసం దరఖాస్తు చేయడానికి ఏ పత్రాలు అవసరం?",
+    "hi": "पासपोर्ट के लिए आवेदन करने के लिए किन दस्तावेजों की आवश्यकता होती है?"
+  },
+  {
+    "id": 14,
+    "category": "Technology",
+    "en": "Why is artificial intelligence important in healthcare?",
+    "te": "ఆరోగ్య సంరక్షణలో కృత్రిమ మేధస్సు ఎందుకు ముఖ్యమైనది?",
+    "hi": "स्वास्थ्य सेवा में कृत्रिम बुद्धिमत्ता क्यों महत्वपूर्ण है?"
+  },
+  {
+    "id": 15,
+    "category": "Customer Support",
+    "en": "My internet connection is very slow today.",
+    "te": "ఈరోజు నా ఇంటర్నెట్ కనెక్షన్ చాలా నెమ్మదిగా ఉంది.",
+    "hi": "आज मेरा इंटरनेट कनेक्शन बहुत धीमा चल रहा है।"
+  },
+  {
+    "id": 16,
+    "category": "Education",
+    "en": "How can students improve their time management skills?",
+    "te": "విద్యార్థులు తమ సమయ నిర్వహణ నైపుణ్యాలను ఎలా మెరుగుపరుచుకోవచ్చు?",
+    "hi": "छात्र अपने समय प्रबंधन कौशल को कैसे सुधार सकते हैं?"
+  },
+  {
+    "id": 17,
+    "category": "Environment",
+    "en": "List three ways to save water at home.",
+    "te": "ఇంట్లో నీటిని ఆదా చేయడానికి మూడు మార్గాలను పేర్కొనండి.",
+    "hi": "घर पर पानी बचाने के तीन तरीके बताएं।"
+  },
+  {
+    "id": 18,
+    "category": "Travel",
+    "en": "How do I book a train ticket online?",
+    "te": "ఆన్‌లైన్‌లో రైలు టికెట్ ఎలా బుక్ చేయాలి?",
+    "hi": "मैं ऑनलाइन ट्रेन टिकट कैसे बुक कर सकता हूँ?"
+  },
+  {
+    "id": 19,
+    "category": "Business",
+    "en": "Write a polite email requesting a meeting tomorrow.",
+    "te": "రేపు సమావేశాన్ని అభ్యర్థిస్తూ మర్యాదపూర్వక ఇమెయిల్ రాయండి.",
+    "hi": "कल बैठक का अनुरोध करते हुए एक विनम्र ईमेल लिखें।"
+  },
+  {
+    "id": 20,
+    "category": "Science",
+    "en": "Why does the sky appear blue during the day?",
+    "te": "పగటిపూట ఆకాశం నీలంగా ఎందుకు కనిపిస్తుంది?",
+    "hi": "दिन के समय आकाश नीला क्यों दिखाई देता है?"
+  }
+]
